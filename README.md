@@ -9,5 +9,4 @@ The purpose of this text is to
 
     1) As a reference to future MOBs, and other UC Berkeley student groups
 
-    2) Propose a conversation about what an academy-independant constitution would look like
-    
+    2) Allow members to easily propose changes to the constitution.
