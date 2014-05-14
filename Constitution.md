@@ -10,11 +10,19 @@
 
 #Article III - Membership
 
-        Anyone is eligible for membership to the Multimedia Orchestra @Berkeley, regardless of campus affiliation. All members are free to participate in any group activity or meeting. Off-campus participants will be considered “associate” members. (Because…) Only currently registered students, faculty, and staff may be “active members” in a registered student organization. Only active members may vote or hold office. Otherwise, all members have identical status and rights within the group.
+        Anyone is eligible for membership to the Multimedia Orchestra @Berkeley, regardless of campus 
+        affiliation. All members are free to participate in any group activity or meeting. Off-campus 
+        participants will be considered “associate” members. (Because…) Only currently registered students, 
+        faculty, and staff may be “active members” in a registered student organization. Only active members 
+        may vote or hold office. Otherwise, all members have identical status and rights within the group.
 
         We will not haze according to California State Law. 
 
-        We will not restrict membership based upon race, color, national origin, religion, sex, physical and mental disability, medical condition (cancer-related or genetic characteristics), ancestry, marital status, age, sexual orientation, citizenship or status as a covered veteran (special disabled veteran, Vietnam-era veteran or any other veteran who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized).
+        We will not restrict membership based upon race, color, national origin, religion, sex, physical 
+        and mental disability, medical condition (cancer-related or genetic characteristics), ancestry, 
+        marital status, age, sexual orientation, citizenship or status as a covered veteran (special 
+        disabled veteran, Vietnam-era veteran or any other veteran who served on active duty during a war 
+        or in a campaign or expedition for which a campaign badge has been authorized).
 
 #Article IV - Officers & Elections
 
