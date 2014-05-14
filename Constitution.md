@@ -1,10 +1,12 @@
 #Article I – Name
 
-              >Multimedia Orchestra @Berkeley, Acronym: MOB
+              Multimedia Orchestra @Berkeley, Acronym: MOB
 
 #Article II - Purpose
                    	
-        The goal of the Berkeley Multimedia Orchestra is to leverage the abundance of technical and artistic talent at UC Berkeley to create works and installations mediated by interactive and innovative technology.
+        The goal of the Berkeley Multimedia Orchestra is to leverage the abundance of technical 
+        and artistic talent at UC Berkeley to create works and installations mediated by interactive 
+        and innovative technology.
 
 #Article III - Membership
 
