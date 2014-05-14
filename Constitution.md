@@ -59,4 +59,6 @@
 
 #Article VIII - ASUC $$$
 
-        All unspent ASUC funds shall remain the property of the ASUC; all Graduate Assembly funds shall remain the                property of the Graduate Assembly. Remaining privately-obtained funds may be donated to another nonprofit                 organization with prior approval of the ASUC Senate Finance Committee.
+        All unspent ASUC funds shall remain the property of the ASUC; all Graduate Assembly funds shall remain the      
+        property of the Graduate Assembly. Remaining privately-obtained funds may be donated to another nonprofit 
+        organization with prior approval of the ASUC Senate Finance Committee.
