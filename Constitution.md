@@ -1,6 +1,6 @@
 #Article I – Name
 
-       	##Multimedia Orchestra @Berkeley, Acronym: MOB
+       	<p>Multimedia Orchestra @Berkeley, Acronym: MOB</p>
 
 #Article II - Purpose
                    	
